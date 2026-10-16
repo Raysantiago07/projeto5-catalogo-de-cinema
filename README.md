@@ -1,11 +1,25 @@
-# Sample Snack app
+# 🎬 Catálogo de Cinema
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## 📌 Sobre o projeto
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+O Catálogo de Cinema é um aplicativo desenvolvido com React Native e Expo que apresenta filmes organizados por gênero. Cada filme é exibido em um card com sua imagem de capa e título.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+O objetivo do projeto é praticar o desenvolvimento de interfaces mobile, a organização de componentes e a utilização de imagens locais.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🎞️ Funcionalidades
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Exibição de filmes separados por gênero.
+- Categorias de Animação, Aventura, Comédia e Romance.
+- Cards com imagem e título de cada filme.
+- Rolagem horizontal para visualizar os filmes de cada categoria.
+- Rolagem vertical para navegar entre os gêneros.
+
+## 🛠️ Tecnologias utilizadas
+
+- React Native
+- Expo
+- TypeScript
+
+## 👩‍💻 Objetivo acadêmico
+
+Projeto desenvolvido para praticar conceitos de desenvolvimento de aplicativos mobile com React Native e Expo, trabalhando com estilos, imagens locais, componentes e navegação por rolagem.
